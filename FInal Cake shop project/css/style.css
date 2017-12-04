@@ -1,0 +1,588 @@
+body{
+	padding:0px;
+	margin:0px;
+	font-family: 'Merriweather', 'Helvetica Neue', Arial, sans-serif;
+	font-weight:1.4em;
+	
+}
+.products-list  {
+	padding: 20px 0px;
+}
+.no-padding {
+	padding: 0 !important;
+	
+}
+
+	
+.navbar-default{
+	background-color:white;
+	height:80px;
+	border:none;
+	padding-top:15px;
+	padding-bottom:0px;
+	margin-bottom:0px;
+	
+	
+		
+}
+
+#activess{
+	
+	font-size:15px;
+	background-color:orange; 
+	margin-left:5px;
+	
+		
+}
+
+
+/* nav-var  list color	*/
+.navbar-default .navbar-nav li a{
+	color:black;
+	font-size:15px;
+	text-transform:uppercase;
+	font-weight: 300;
+	margin-bottom:0px;
+	
+	
+	
+	
+}
+/* nav-var  list hover :color,background-color & size	*/
+.navbar-default .navbar-nav  li  a:hover
+{
+  color: white;
+  background-color:orange; 
+ font-size:16px;
+ margin-left:10px;
+ 
+  
+  
+}
+/* nav-var  dropdown-menu background-color	*/
+.dropdown-menu{
+	color:orange;
+	
+}
+
+.top-header{
+	
+	background-color:#363F48;
+	padding:7px 0px 7px 0px;
+	
+	
+}
+.mail{
+	color:orange;
+}
+.phone{
+	color:orange;
+	
+	
+}
+.btn-grey{
+	color:orange;
+	
+}
+.mail:hover{
+	color:white;
+	text-decoration:none;
+	
+}
+.phone:hover{
+	color:white;
+	text-decoration:none;
+	
+}
+.btn-grey:hover{
+	color:white;
+}
+.modal-content {
+  top: 100px;
+  border-radius: 1px;
+  background: #95DE0C; 
+  color:black;
+ 
+ 
+  
+}
+.myForm {
+  margin: 50px 0;
+}
+.myForm input {
+  color: #060300    ;
+  
+  border-radius: 1px;
+}
+#page{
+	padding-left:80px;
+	
+}
+.main-footer{
+	background-color:#353D42;
+	padding:100px 0px;
+}
+.description{
+	color:white;
+	font-family:  sans-serif;
+	padding:20px 0px;
+	
+}
+.map{
+	color:white;
+	
+	
+}
+.map:hover{
+	color:white;
+	text-decoration:none;
+}
+.mobile{
+	color:white;
+	
+}
+.mobile:hover{
+	color:white;
+	text-decoration:none;
+}
+.email{
+	color:white;
+	
+}
+.email:hover{
+	color:white;
+	text-decoration:none;
+}
+#left-sidebar.footer-social-list li{
+	list-style:none;
+	float:right;
+	text-decoration:none;
+	color:white;
+	font-size:20px;
+}
+.facebook{
+	color:#3B589E;
+	font-size:30px;
+	
+	
+}
+.facebook:hover{
+	color:#3B589E;
+	font-size:33px;
+	text-decoration:none;
+	
+	
+}
+.facebook{
+	color:#3B589E;
+	font-size:30px;
+	
+	
+}
+.facebook:hover{
+	color:#3B589E;
+	font-size:33px;
+	text-decoration:none;
+	
+	
+}.twitter{
+	color:#2B97F0;
+	font-size:30px;
+	
+	
+}
+.twitter:hover{
+	color:#2B97F0;
+	font-size:33px;
+	text-decoration:none;
+	
+	
+}.linkedin{
+	color:#1C82CA;
+	font-size:30px;
+	
+	
+}
+.linkedin:hover{
+	color::#1C82CA;
+	font-size:33px;
+	text-decoration:none;
+	
+	
+}.google{
+	color:#DC4E41;
+	font-size:30px;
+	
+	
+}
+.google:hover{
+	color:#DC4E41;
+	font-size:33px;
+	text-decoration:none;
+	
+	
+}
+.rss{
+	color:#E78733;
+	font-size:30px;
+	
+	
+}
+.rss:hover{
+	color:#56D7FE;
+	font-size:33px;
+	text-decoration:none;
+	
+	
+}.vimeo{
+	color:;
+	font-size:30px;
+	
+	
+}
+.vimeo:hover{
+	color:#56D7FE;
+	font-size:33px;
+	text-decoration:none;
+	
+	
+}
+.title{
+	color:white;
+	margin-top:0px;
+	
+}
+  hr{
+	border-color: #FFC300;
+	border-width: 2px;
+	max-width:50px;
+	margin:0px;
+	padding-bottom:10px;
+}
+
+.one-gallery{
+	padding:7px 0px;
+}
+.three-gallery{
+	padding:7px 0px;
+}
+.two-gallery{
+	padding:7px 0px;
+}
+.images{
+	padding-left:10px;
+}
+#last-footer{
+	
+	background-color:#363F48;
+	height:60px;
+	
+}
+.copyright{
+	color:#858585;
+	padding-top:15px;
+	padding-bottom:10px;
+	text-align:center;
+}
+
+.carousel-caption h4{
+	color:white;
+	font-family: 'Satisfy', cursive;
+	text-transform:uppercase;
+	
+}
+
+#new-body{
+	
+background-color:#F5F5F5;
+margin:0px;
+padding;0px;
+}
+.cake-name{
+	background-color:#FFFFFF;
+	margin:20px 0px;
+	height:110px;
+	padding:10px;
+	
+}
+.cake-name h3{
+	color:orange;
+	text-transform:uppercase;
+	font-family:sans-serif;
+	font-weight:600;
+}
+.cake-name .reviews{
+	color:green;
+	float:right;
+}
+#cake-information{
+	background-color:white;
+	margin:20px 0px;
+	
+	
+}
+.cake-detail{
+	padding:10px;
+}
+.cake-detail h4{
+	color:#F34B0A;
+	text-transform:uppercase;
+	font-family:sans-serif;
+	font-weight:600;
+	
+}
+.cake-detail i{
+	color:white;
+	background-color:#F34B0A;
+	padding:16px;
+	font-size:20px;
+	margin-bottom:10px;
+	
+}.cake-detail-info {
+	
+	margin:0px;
+	padding:0px;
+}
+.cake-detail-info li{
+	list-style:none;
+	font-family:tahoma;
+	border-bottom:1px dotted gray;
+	padding:20px 0px;;
+	
+}
+.cake-detail-info li span{
+	color:#6A6A6A;
+	margin-right:0px;
+	font-size:20px;
+}
+.cake-detail h3{
+	color:#F34B0A;
+	text-transform:uppercase;
+	font-family:sans-serif;
+	font-weight:600;
+	padding-left:15px;
+	border-left:4px solid #F34B0A;
+	font-size:20px;
+	
+}
+
+#image-body{
+
+  position: relative;
+  width: 100%;
+  min-height: auto;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+  background-image: url('../img/hellok.jpg');
+  text-align: center;
+  background-position: center;
+  
+ 	
+}
+#images-body{
+
+  position: relative;
+width:100%;
+  min-height: auto;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+  background-image: url('../img/three.jpg');
+  text-align: center;
+  height:500px;
+ 
+}
+#images-bodi{
+	position: relative;
+width:100%;
+  min-height: auto;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+  background-image: url('../img/two.jpg');
+  text-align: center;
+  height:500px;
+}
+
+.main-content{
+	height:500px;
+	background-color: rgba(0,0,0,.3);
+		
+
+}
+.titles{
+	padding-top:230px;
+	font-size:28px;
+	color:white;
+	font-family: Times, serif; 
+	line-height:2em;
+	letter-spacing: 1px;
+	text-transform:uppercase;
+	text-align:center;
+}
+ .titles hr{
+	border-color: #FFC300;
+	border-width: 3px;
+	max-width: 50px;
+	text-align:center; 
+	margin: 0 auto;
+	
+	
+	
+}
+.text{
+	color:#E7E7E7;
+	font-family: 'Merriweather' ; 
+	line-height:2em;
+	font-size:20px;
+}
+
+.btn-prime{
+	background-color: #F05F40;
+	border-radius:300px;
+	border:none;
+	padding:14px 22px 14px 22px;
+	text-transform:uppercase;
+	font-weight:700;
+	color:white;
+}
+.btn-prime:hover{
+	background-color: #EE4B28;
+	padding:15px 23px 15px 23px;
+	color:white;
+	
+}
+#order{
+	background-color:orange;
+	color:white;
+	margin-bottom:60px;
+	
+}
+.footer-item hr{
+	border-color: #FFC300;
+	border-width: 2px;
+	max-width:50px;
+	margin:0px;
+	padding-bottom:10px;
+}
+.footer-items hr{
+	border-color: #FFC300;
+	border-width: 2px;
+	max-width:50px;
+	margin:0px;
+	padding-bottom:10px;
+}
+.title{
+	text-transform:uppercase;
+	font-family:sans-serif;
+}
+.media{
+	color:white;
+}
+.media a{
+	color:white;
+}
+.media a:hover{
+	color:white;
+	text-decoration:none;
+}
+.cake-name hr{
+	border-color: #FFC300;
+	border-width: 2px;
+	max-width:50px;
+	margin:0px;
+	padding-bottom:10px;
+}
+.product-name h4{
+	color:orange;
+	font-family:sans-serif;
+	text-transform:uppercase;
+	text-decoration:none;
+	
+}
+.caption a:hover{
+	color:red;
+	text-decoration:none;
+	
+}
+.cake-names{
+	background-color:#FFFFFF;
+	margin:20px 0px;
+	height:500px;
+	padding:10px;
+	
+}
+.cake-names h3{
+	color:#F34B0A;
+	text-transform:uppercase;
+	font-family:sans-serif;
+	font-weight:600;
+	text-align:center;
+}
+.cake-names hr{
+	border-color: #F34B0A;
+	border-width: 2px;
+	max-width:50px;
+	margin:0 auto;
+	padding-bottom:10px;
+}
+.icon-list li{
+	list-style:none;
+	padding:20px 0px;
+	font-family:sans-serif;
+	font-size:16px;
+}
+.icon-list li i{
+	color:#F34B0A;
+}
+.lorem{
+	padding:10px 0px;
+	font-family:sans-serif;
+	font-size:15px;
+}
+.footer-social-list li{
+	list-style:none;
+	
+	
+}
+.footer-social-list li i{
+	font-size:25px;
+	margin-right:10px;
+	float:left;
+	
+}
+.about-box-body{
+	height:200px;
+}
+.designation{
+	font-family:tahoma;
+	font-size:13px;
+	text-transform:uppercase;
+	font-weight:bold;
+	color:gray;
+}
+.name{
+	font-family:sans-serif;
+	text-transform:uppercase;
+	font-weight:bold;
+	color:#F34B0A;
+	font-size:15px;
+}
+
+#map-container {
+	height: 600px;
+	margin:0px;
+	padding:0px;
+}
+
+
+#btn-nav {
+	position: fixed;
+}
+
+
+
